@@ -4,6 +4,8 @@
 
 Diese Flutter-Applikation kann auf Web, Android und Desktop (Windows) ausgeführt werden.
 
+![flutterApps](flutterApps.png)
+
 **Voraussetzungen:**
 
 - Flutter SDK installiert
